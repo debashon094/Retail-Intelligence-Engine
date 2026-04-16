@@ -1,0 +1,12 @@
+# Data Manipulation
+pandas==2.2.1
+
+# Fuzzy Matching & String Similarity
+fuzzywuzzy==0.18.0
+python-Levenshtein==0.25.0
+
+# AWS SDK (For S3, Textract, and Redshift integration)
+boto3==1.34.0
+
+# Environment & Utilities
+python-dotenv==1.0.1
